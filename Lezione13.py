@@ -1,4 +1,4 @@
-	# Van Zwam Arjen
+			# Van Zwam Arjen
 print ('Ciao! Siamo qui per calcolare il perimetro di una figura a tuo piacimento!')
 print ('Premi 1 per il QUADRATO')
 print ('Premi 2 per il RETTANGOLO')
